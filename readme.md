@@ -9,8 +9,18 @@
 * Delete    
 
 # Usage  
-``` python configs/migrate.py ```  
-``` python create.py ```   
-``` python read.py ```   
-``` python update.py ```   
-``` python delete.py ```   
+``` 
+python configs/migrate.py 
+```  
+``` 
+python create.py 
+```   
+``` 
+python read.py 
+```   
+``` 
+python update.py 
+```   
+``` 
+python delete.py 
+```   
